@@ -1,2 +1,3 @@
 # Pacman
-* Console based pac-man application
+* Simple command line application - without using OOP concepts
+
